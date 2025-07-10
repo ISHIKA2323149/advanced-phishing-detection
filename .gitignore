@@ -1,1 +1,4 @@
 results/
+distilbert_phishing_model/model.safetensors
+emails.csv
+results/
